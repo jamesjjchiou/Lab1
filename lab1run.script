@@ -1,0 +1,12 @@
+Script started on 2019年03月 4日 下午 10:10:04
+]0;~/lab1
+[32mJames@LAPTOP-5J79KMUF [33m~/lab1[0m
+$ ./run
+enter a number:
+22
+sh: pause：命令找不到
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1]0;~/lab1
+[32mJames@LAPTOP-5J79KMUF [33m~/lab1[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 10:10:41
