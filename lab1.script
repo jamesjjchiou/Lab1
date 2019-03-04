@@ -1,0 +1,33 @@
+Script started on 2019年03月 4日 下午 08:59:36
+]0;~
+[32mJames@LAPTOP-5J79KMUF [33m~[0m
+$  whoami; pwd
+James
+/home/James
+]0;~
+[32mJames@LAPTOP-5J79KMUF [33m~[0m
+$  git config -l
+[?1h=user.email=jimmy.jj.chiou@gmail.com[m
+user.name=jamesjjchiou[m
+core.repositoryformatversion=0[m
+core.filemode=true[m
+core.bare=false[m
+core.logallrefupdates=true[m
+core.ignorecase=true[m
+remote.origin.url=https://github.com/jamesjjchiou/Lab1.git[m
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*[m
+branch.master.remote=origin[m
+branch.master.merge=refs/heads/master[m
+[K[?1l>]0;~
+[32mJames@LAPTOP-5J79KMUF [33m~[0m
+$  git clone https://github.com/<your github account>/lab1.gitj[K[Kt[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitj/lab1.gita/lab1.gitm/lab1.gite/lab1.gits/lab1.gitj/lab1.gitj/lab1.gitc/lab1.gith/lab1.giti/lab1.gito/lab1.gitu/lab1.git[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+remote: Enumerating objects: 4, done.[K
+remote: Counting objects:  25% (1/4)   [Kremote: Counting objects:  50% (2/4)   [Kremote: Counting objects:  75% (3/4)   [Kremote: Counting objects: 100% (4/4)   [Kremote: Counting objects: 100% (4/4), done.[K
+remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+]0;~
+[32mJames@LAPTOP-5J79KMUF [33m~[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 09:01:48
